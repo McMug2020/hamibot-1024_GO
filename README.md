@@ -7,7 +7,7 @@
 
 此页面仅提供脚本安装地址，并非开源项目
 
-https://hamibot.com/marketplace/XAMTe 使用方法见Tips第十条
+脚本安装地址为：https://hamibot.com/marketplace/XAMTe 使用方法见Tips第十条
 
 -----------------------✂---------------------------   
 
