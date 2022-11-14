@@ -3,8 +3,8 @@
 
 小草新手上路有1024秒回复间隔，一天最多回复10帖，基本要回够1000帖才能上岛成为侠客。
 
-Hamibot脚本安装地址为：https://hamibot.com/marketplace/XAMTe
-使用方法见Tips第10条。
+**Hamibot脚本安装地址为：https://hamibot.com/marketplace/XAMTe
+使用方法见Tips第10条。**
 
 Hamibot是适用于安卓系统的自动化工具，近似Auto.js，优点是脚本热更新，能操控任意 APP，实现自动化操作，提高工作效率。
 
